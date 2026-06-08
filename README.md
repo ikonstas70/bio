@@ -3,44 +3,32 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ikonstas70.github.io-3b82f6?style=flat-square&logo=github)](https://ikonstas70.github.io)
 [![Articles](https://img.shields.io/badge/Technical_Articles-24_published-10b981?style=flat-square)](https://ikonstas70.github.io/#articles)
 
-Cybersecurity · Enterprise Infrastructure · Network Automation · Cryptography · Telecom · Audio Engineering
+---
+
+Multi-disciplinary IT professional with over a decade of experience across enterprise infrastructure, cybersecurity, compliance, and advanced network environments. Technical scope spans virtualization, high-availability clustering, routing protocols (OSPF, BGP, EIGRP, MPLS, DMVPN), SD-WAN, Windows Server, Exchange, Oracle RAC, IBM DB2, and Linux — with direct accountability across design, deployment, and optimization at enterprise scale.
+
+Compliance and audit work is grounded in operational responsibility. As Senior IT Internal Auditor and IT Manager at the Seminole Tribe of Florida, maintained alignment with Title 31 (Bank Secrecy Act), multiple CFRs, and Tribal-State compact frameworks, including a full MICS rewrite against CFR baseline minimums. Trusted with the integrity of financial and gaming systems across one of the largest tribal enterprises in the United States. Additional regulatory scope covers SOX, OFAC, and NIST-aligned security governance.
+
+Infrastructure engagements include a full data center build and Cisco fiber backbone deployment at Gibraltar Private Bank & Trust, disaster recovery plan design and proof-of-concept validation at the Teachers' Retirement System of NYC, VeloCloud SD-WAN deployment across 50+ locations, and the Miami-Dade Transit EASY Card System rollout system-wide. Served as FEMA Reservist Communications Unit Leader, overseeing IT infrastructure for mission-critical emergency operations.
+
+Current work covers cybersecurity architecture, network automation, cryptographic algorithm implementation, and carrier-grade telecom engineering — with 24 published technical articles across VMware, Cisco, cryptography, IBM i, SS7, HF communications, and CLEC stack integration.
+
+**Certifications:** CEH · CISSP Advanced Studies · CCIE & CCNA Technical Training · ITIL · COBIT
 
 ---
 
-Infrastructure and security professional with a track record of compliance-driven technical delivery across government, financial services, and public sector environments.
+## Technical Scope
 
-At the Seminole Tribe of Florida as Senior IT Internal Auditor and IT Manager, led organizational alignment with Title 31 (Bank Secrecy Act), multiple CFRs, and Tribal-State compact frameworks — including a full MICS rewrite against CFR baseline minimums. Scope covered integrity of financial and gaming systems and public trust through audited, lawful operations.
-
-At Gibraltar Private Bank & Trust, a new data center was built from the ground up — full relocation of technology assets, migration of network, circuits, and telecom with minimal downtime. A Cisco fiber backbone with redundant switches and standby routers reduced daily incidents and established a documented security posture. At the Teachers' Retirement System of NYC, custom scripts resolved critical failures in the Kofax document management platform and validated disaster recovery plans were approved with full proof-of-concept testing.
-
-Additional scope: VeloCloud SD-WAN deployment across 50+ locations; FEMA Reservist Communications Unit Leader overseeing IT infrastructure for mission-critical emergency operations; Miami-Dade Transit EASY Card System launch across stations and bus routes system-wide.
-
-Current technical work covers cybersecurity architecture, network automation (Cisco CSR1000v, Flask, Cloudflare Zero Trust), cryptographic algorithm implementation, and telecom engineering.
-
----
-
-## Expertise
-
-**Cybersecurity & Infrastructure**
-— Zero-trust network architecture, VMware ESXi hardening (45-control assessment), SD-WAN security, disaster recovery, OSSEC intrusion detection, Linux/macOS hardening, SSH governance
-
-**Network Automation**
-— Flask API gateway over Cisco CSR1000v, socat transport bridge, Cloudflare Zero Trust tunnel, Tailscale WireGuard, NAPALM, Netmiko
-
-**Cryptography & Applied Mathematics**
-— Integer factorization (Quadratic Sieve, LPQS pipeline, GNFS via CADO-NFS), AES/GF(2⁸) internals, RSA security analysis
-
-**Telecom & VoIP**
-— SS7 signaling, Kamailio SIP proxy (LCR, fraud detection), Asterisk PBX, A2Billing AGI real-time billing, STIR/SHAKEN, Docker carrier stacks
-
-**HF Communications**
-— Harris modem Python serial interface, Fortran DSP wrappers, STANAG waveform analysis, ionospheric propagation, MUF calculation — from Hellenic Navy HF telemetry operations
-
-**Database Systems**
-— Oracle RAC, IBM i PowerHA vs Journal-Based Replication, SQL Server performance, BigQuery, SQLite
-
-**Audio Engineering**
-— Signal processing, FFT/MFCC spectral analysis, streaming analytics
+| Domain | Technologies |
+|---|---|
+| **Networking** | Cisco IOS-XE, OSPF, BGP, EIGRP, MPLS, DMVPN, SD-WAN, VLANs, SIP, RTP |
+| **Cybersecurity** | Zero-trust architecture, penetration testing, vulnerability management, OSSEC, SSL/TLS, incident response |
+| **Virtualisation** | VMware vSphere, hypervisor clustering, Docker, containerised carrier stacks |
+| **Systems** | Windows Server, Exchange, Linux, OpenVMS |
+| **Databases** | Oracle RAC, IBM DB2, MS SQL Server, IBM i |
+| **Compliance** | Title 31 / AML, MICS, SOX, OFAC, NIST, CISSP principles |
+| **Automation** | Python, Bash, Flask, NAPALM, Netmiko, Transact-SQL |
+| **Telecom** | Asterisk, Kamailio, FreePBX, A2Billing, SS7, STIR/SHAKEN |
 
 ---
 
@@ -56,22 +44,7 @@ Current technical work covers cybersecurity architecture, network automation (Ci
 | IBM i | [IBM PowerHA Storage Replication vs Journal-Based Replication](https://ikonstas70.github.io/articles/article-23-ibm-powerha-vs-journal-based-replication.html) |
 | SS7 | [SS7 Signaling System No. 7 — Technical Reference](https://ikonstas70.github.io/articles/article-21-ss7-signaling-system-technical-reference.html) |
 
-→ Full list: [ikonstas70.github.io/#articles](https://ikonstas70.github.io/#articles)
-
----
-
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Apple](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+→ [ikonstas70.github.io/#articles](https://ikonstas70.github.io/#articles)
 
 ---
 
