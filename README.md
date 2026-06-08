@@ -13,7 +13,7 @@ At the Seminole Tribe of Florida as Senior IT Internal Auditor and IT Manager, l
 
 At Gibraltar Private Bank & Trust, a new data center was built from the ground up — full relocation of technology assets, migration of network, circuits, and telecom with minimal downtime. A Cisco fiber backbone with redundant switches and standby routers reduced daily incidents and established a documented security posture. At the Teachers' Retirement System of NYC, custom scripts resolved critical failures in the Kofax document management platform and validated disaster recovery plans were approved with full proof-of-concept testing.
 
-Additional scope: VeloCloud SD-WAN deployment across 50+ locations for regulatory compliance; FEMA Reservist Communications Unit Leader overseeing IT infrastructure for mission-critical emergency operations; Miami-Dade Transit EASY Card System launch across stations and bus routes system-wide.
+Additional scope: VeloCloud SD-WAN deployment across 50+ locations; FEMA Reservist Communications Unit Leader overseeing IT infrastructure for mission-critical emergency operations; Miami-Dade Transit EASY Card System launch across stations and bus routes system-wide.
 
 Current technical work covers cybersecurity architecture, network automation (Cisco CSR1000v, Flask, Cloudflare Zero Trust), cryptographic algorithm implementation, and telecom engineering.
 
@@ -57,20 +57,6 @@ Current technical work covers cybersecurity architecture, network automation (Ci
 | SS7 | [SS7 Signaling System No. 7 — Technical Reference](https://ikonstas70.github.io/articles/article-21-ss7-signaling-system-technical-reference.html) |
 
 → Full list: [ikonstas70.github.io/#articles](https://ikonstas70.github.io/#articles)
-
----
-
-## Dev Environment
-
-| | |
-|---|---|
-| **Machine** | Apple Mac mini (M4 Pro) |
-| **Chip** | Apple M4 Pro — 12-core (8P + 4E) |
-| **Memory** | 24 GB unified |
-| **OS** | macOS Sequoia |
-| **Primary languages** | Python · Bash · SQL |
-| **Networking** | Cisco IOS-XE · SD-WAN · Kamailio · Asterisk |
-| **Virtualisation** | VMware ESXi · UTM/QEMU · Docker · LXD |
 
 ---
 
